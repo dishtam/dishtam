@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">A passionate learner from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dishtam" alt="dishtam" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" padding="5"><img src="https://github-profile-trophy.vercel.app/?username=dishtam" alt="dishtam" /></a> </p>
 <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" width="400" alight="right" />
   
 - 🔭 I’m currently working on **CP and DSA**
