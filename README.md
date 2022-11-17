@@ -1,9 +1,10 @@
+<img src="https://cdn.wallpapersafari.com/52/3/3fEwap.png" height="200" width="1930"/>
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">A passionate learner from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dishtam" alt="dishtam" /></a> </p>
-<img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" width="500" alight="right">
-
+<img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" width="400" alight="right" />
+  
 - 🔭 I’m currently working on **CP and DSA**
 
 - 🌱 I’m currently learning **Drone technology**
@@ -14,7 +15,7 @@
 
 - 📫 How to reach me **rohhiiiit@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MQgI0okOeg99aOdW2cAKDQB-PhzbEs8f/view?usp=share_link](https://drive.google.com/file/d/1MQgI0okOeg99aOdW2cAKDQB-PhzbEs8f/view?usp=share_link)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1MQgI0okOeg99aOdW2cAKDQB-PhzbEs8f/view?usp=share_link)
 
 - ⚡ Fun fact **I think I am funny**
 
